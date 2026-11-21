@@ -13,6 +13,6 @@ window.SMART_SEMBAKO_CONFIG = {
   },
   store: {
     name: "SMART SEMBAKO",
-    whatsapp: "6281234567890"
+    whatsapp: "+6089508520499"
   }
 };
